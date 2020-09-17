@@ -13,6 +13,12 @@
 - 😄 Pronouns: He/Him/His.
 ⚡ Fun fact: I love being outdoors ,around nature!
 
+Here are some are my stats,they might not be ACCURATE though😄 !!
+
+[![Tatenda's Github Stats](https://github-readme-stats.vercel.app/api?username=Taity045)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
