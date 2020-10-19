@@ -9,7 +9,7 @@
 - 🏍 I'm passionate about all things AWS,Devops and Linux
 - ☁ I’m a [cloud resume champion](https://cloudresumechallenge.dev/).
 - 👯 I’m looking to collaborate on anything related to cloud computing
-- 🌱 I’m currently deepdiving into AWS and Serverless.
+- 🌱 I am an AWS Community Builder
 - 😄 Pronouns: He/Him/His.
 - ⚡  Fun fact: I love being outdoors ,around nature!
 
