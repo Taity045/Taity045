@@ -1,7 +1,7 @@
 ### Hi there, Let's have a look shall we ? 
 ### I am [Tatenda](https://tatenda.hashnode.dev/) 👋
 
-## You can reach [here](https://twitter.com/Taity__m)
+## You can reach me [here](https://twitter.com/Taity__m)
 
 
 
