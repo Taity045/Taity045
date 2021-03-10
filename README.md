@@ -13,7 +13,7 @@
 
 Here are some of my stats,they might not be ACCURATE though😄 !!
 
-![Tatenda's Github Stats This Month](https://github-readme-stats.vercel.app/api?username=Taity045&show_icons=true&theme=radical)
+![Tatenda's Github Stats This Month](https://github-readme-stats.vercel.app/api?username=Taity045&show_icons=true&theme=dark)
 
 
 
