@@ -7,9 +7,8 @@
 
 ## About me
 - 🏍 I'm passionate about all things AWS,Devops and Linux
-- 👯 I’m looking to collaborate on anything related to cloud computing
+- 👯 I’m looking to collaborate on anything related to cloud computing(AWS)
 - 🌱 I am an AWS Community Builder
-- 😄 Pronouns: He/Him/His.
 - ⚡  Fun fact: I love being outdoors ,around nature!
 
 Here are some of my stats,they might not be ACCURATE though😄 !!
